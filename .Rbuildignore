@@ -15,3 +15,5 @@ firebase.rds
 ^cran-comments\.md$
 ^CRAN-RELEASE$
 ^srcjs$
+^.*\.Rproj$
+^\.Rproj\.user$
